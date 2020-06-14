@@ -11,3 +11,9 @@ Commit #5 during squash activity
 Commit #6 during squash activity
 
 Commit #7 during squash activity
+
+Swaqhs local commit 1
+
+Squash local commit #2
+
+Squash local commit #3
