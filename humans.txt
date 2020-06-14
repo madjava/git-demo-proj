@@ -6,3 +6,5 @@
     Felix Eyetan felix@git.madjava.com
 
 # THANKS
+
+Commit #8 during rebase activity
